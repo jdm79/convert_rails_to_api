@@ -14,11 +14,11 @@ e.g. coffee-rails, sass-rails, web-console etc
 
 ## 3 - get rid of:
 
-app/assets/
-lib/assets/
-vendor/assets/
-app/helpers/
-app/views/layouts/application.html.erb
+* app/assets/
+* lib/assets/
+* vendor/assets/
+* app/helpers/
+* app/views/layouts/application.html.erb
 
 should just have Mailer views on your app/views folder
 
